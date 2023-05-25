@@ -1,5 +1,2 @@
-function helloWorld() {
-  alert("Git is Awesome!");   
-}
-
-helloWorld();
+let userInput = prompt("Enter some words!")
+alert("Your words are " + userInput)
